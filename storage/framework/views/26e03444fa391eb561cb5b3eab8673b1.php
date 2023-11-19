@@ -1,0 +1,1 @@
+components.user-dashboard<?php /**PATH /home/ryan/Documents/class/dsl/laravelapp/storage/framework/views/0a28b99412328677bdc2a3c71946c40a.blade.php ENDPATH**/ ?>
